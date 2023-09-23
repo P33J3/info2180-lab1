@@ -1,0 +1,29 @@
+
+h1 {
+    font-size: 24px;
+    color: #38B2AC;
+    /*-webkit-text-stroke: 1px ;*/
+    font-family: Arial;
+}
+
+h2 {
+    font-size: 21px;
+    color: #5A67D8;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+img {
+
+    width: 250px;
+    margin-right: 5px;
+}
+
+body {
+    background-color: #d0c5a2;
+}
+
+
